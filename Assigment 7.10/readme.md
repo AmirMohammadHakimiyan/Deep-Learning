@@ -1,6 +1,7 @@
 # Face Identification
-**Face identification** is the task of matching a given face image to one in an existing database of faces.
 ![picture](download.jpg)
+
+**Face identification** is the task of matching a given face image to one in an existing database of faces.
 ## How to install
 
 ```
