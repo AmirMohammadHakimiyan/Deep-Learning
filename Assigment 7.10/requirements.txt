@@ -1,0 +1,4 @@
+insightface
+numpy
+opencv-python
+matplotlib
